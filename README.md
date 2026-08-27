@@ -1,4 +1,3 @@
-# rahulbajaj96.github.io
 # Rahul Bajaj— Portfolio
 
 A responsive GitHub Pages portfolio for Rahul Bajaj Senior Mobile App Developer.
