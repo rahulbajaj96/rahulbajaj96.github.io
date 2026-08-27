@@ -277,7 +277,7 @@ pre {
   grid-template-columns: 1fr 1fr;
   gap: 60px;
   color: var(--muted);
-  font-size: 18px;
+  font-size: 17px;
 }
 
 
